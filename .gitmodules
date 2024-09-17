@@ -1,0 +1,6 @@
+[submodule "database_project"]
+	path = database_project
+	url = https://github.com/valary-esendi/database_project
+[submodule "web-project"]
+	path = web-project
+	url = https://github.com/valary-esendi/web-project
