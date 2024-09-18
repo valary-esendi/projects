@@ -4,3 +4,6 @@
 [submodule "web-project"]
 	path = web-project
 	url = https://github.com/valary-esendi/web-project
+[submodule "flutter_project"]
+	path = flutter_project
+	url = https://github.com/valary-esendi/flutter_project
