@@ -7,3 +7,6 @@
 [submodule "flutter_project"]
 	path = flutter_project
 	url = https://github.com/valary-esendi/flutter_project
+[submodule "pyhton-project"]
+	path = pyhton-project
+	url = https://github.com/valary-esendi/pyhton-project
